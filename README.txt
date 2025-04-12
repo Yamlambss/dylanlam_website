@@ -1,23 +1,17 @@
-Halcyonic by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi there!
 
+My name is Dylan and this is the associated repository to my personal website.
 
-A somewhat unusual but interesting responsive site template. I did this one to test out a
-new pattern set I put together and I think it really came together well. As for use cases
-it's kind of unspecific so hey, use it for whatever.
+In my website, you'll be able to learn about who I am, the work that I have done,
+and how to contact me. Over time, I will update my website to reflect new projects 
+and news relating to me, so don't be afraid to check it out periodically!
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+This repository will contain some of the files for my projects, but make sure to check 
+the website to find out where you can access any of the files you may be looking for.
 
-AJ
-aj@lkn.io | @ajlkn
+This website was created using the Halcyonic theme from html5up.net
+If you are interested in creating your own website and are looking for a theme to build 
+off of, check them out!
 
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thanks for stopping by!
+Dylan Lam
